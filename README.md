@@ -55,7 +55,7 @@
 
 ### backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django&perline=8" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask&perline=8" />
 </p>
 
 ---
@@ -69,14 +69,14 @@
 
 ### devops & cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,netlify&perline=8" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,netlify,vercel&perline=8" />
 </p>
 
 ---
 
 ### tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,npm,pnpm,androidstudio,firebase&perline=8" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,pnpm,androidstudio,firebase,bash,nginx,&perline=8" />
 </p>
 
 ---
