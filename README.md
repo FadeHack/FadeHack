@@ -77,7 +77,7 @@
 
 ### tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,pnpm,androidstudio,firebase,bash,nginx&perline=8" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,pnpm,androidstudio,firebase,bash,linux,nginx&perline=8" />
 </p>
 
 ---
