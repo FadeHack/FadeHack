@@ -80,10 +80,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,pnpm,androidstudio,firebase,bash,nginx&perline=8" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Cargo-Rust%20package%20manager-orange?logo=rust&logoColor=white" />
-</p>
-
 ---
 
 ## 📌 philosophy
