@@ -33,6 +33,7 @@
 - full stack dev building things end-to-end (frontend → backend → cloud)  
 - building things that work (and fixing when they don’t)  
 - currently deep into systems, performance, and real-world scaling  
+- building fast, reliable CLI tools with Rust  
 - not a fan of overengineering, big fan of shipping  
 
 ---
@@ -41,7 +42,7 @@
 
 ### languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,c&perline=8" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,rust&perline=8" />
 </p>
 
 ---
@@ -76,7 +77,7 @@
 
 ### tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,pnpm,androidstudio,firebase,bash,nginx,&perline=8" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,pnpm,cargo,androidstudio,firebase,bash,nginx&perline=8" />
 </p>
 
 ---
