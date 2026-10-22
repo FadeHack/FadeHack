@@ -12,7 +12,7 @@
   <a href="mailto:fadehack.dev@gmail.com">Email</a>
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FadeHack&style=flat-square&color=blue"/>
+  <img src="https://img.shields.io/badge/profile%20views-0-blue?style=flat-square" alt="profile views" />
 </p>
 
 <p>
