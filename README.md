@@ -8,9 +8,8 @@
 </h1>
 
 <p>
-  <a href="https://x.com/shivam_1000_">𝕏</a> •
-  <a href="https://www.linkedin.com/in/shivam-maheshwari-28a303209/">LinkedIn</a> •
-  <a href="mailto:shiva101fb@gmail.com">Email</a>
+  <a href="https://x.com/fadeHack">𝕏</a> •
+  <a href="mailto:fadehack.dev@gmail.com">Email</a>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FadeHack&style=flat-square&color=blue"/>
